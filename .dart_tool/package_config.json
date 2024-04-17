@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "cowsim",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-01-30T21:13:55.402646Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.0-179.0.dev"
+}
